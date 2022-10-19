@@ -22,7 +22,7 @@ namespace CoffeeAppDemo
             customer.FirstName="Çağatay Berk";
             customer.LastName="Cingiz";
             customer.Id=1;
-            customer.NationalityId="39055554152";
+            customer.NationalityId="";
             customer.DateOfBirth=new DateTime(2001, 11, 5);
 
             customerManager.Save(customer);
